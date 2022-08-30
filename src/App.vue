@@ -1,16 +1,18 @@
 <template>
   <nav>
-    <h4>menu (dans <code>/src/App.vue</code>)</h4>
+    <h4 class="text-xl">
+      menu (dans <code class="font-mono">/src/App.vue</code>)
+    </h4>
     <ul>
       <li>
-        <router-link to="/">
+        <router-link class="text-red-600 underline" to="/">
           lien vers
-          <code>/src/pages/index.vue</code>
+          <code class="font-mono">/src/pages/index.vue</code>
         </router-link>
       </li>
     </ul>
   </nav>
 
   <!-- Affiche les pages -->
-  <router-view />
+  <router-view class="m-2 border-2 p-2" />
 </template>
