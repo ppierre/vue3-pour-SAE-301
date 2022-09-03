@@ -8,3 +8,4 @@
 - [Tailwind](https://tailwindcss.com/docs/guides/vite)
   - avec [plugin pour Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss#readme) pour trier les classes TW automatiquement.
 - [HeroIcons pour Vue 3](https://github.com/tailwindlabs/heroicons#vue)
+- ["Polyfill" pour pouvoir importer les types TypeScript de `defineProps`](https://github.com/wheatjs/vite-plugin-vue-type-imports)
