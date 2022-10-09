@@ -1,11 +1,18 @@
-# vue3-ts-router-vite-page-tailwind-icon
+# code de base pour TP (et future SAE 301)
 
-# Projet basique Vue3/TypeScript/router/Vite/plugin-pages/Tailwind
+- **Nom :**
+- **Prénom :**
+- **URL publique du site :**
+- **URL projet Supabase :**
 
-- [Installation de Vue avec Vite comme "build tool"](https://vuejs.org/guide/quick-start.html#with-build-tools)
-- [Vue router](https://router.vuejs.org/guide/)
-  - avec [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages#overview) pour générer automatiquement des routes pour les composant dans le dossier `src/pages`
-- [Tailwind](https://tailwindcss.com/docs/guides/vite)
-  - avec [plugin pour Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss#readme) pour trier les classes TW automatiquement.
-- [HeroIcons pour Vue 3](https://github.com/tailwindlabs/heroicons#vue)
-- ["Polyfill" pour pouvoir importer les types TypeScript de `defineProps`](https://github.com/wheatjs/vite-plugin-vue-type-imports)
+# Initiation
+
+Remplir ci-dessus les "champs" demandés et :
+
+- [ ] Avez-vous compris que vous devez remplir ce document ? (cocher pour répondre, utiliser `\[x\]`)
+
+Aussi, sachez :
+
+- Faire un premier commit et donner son lien Github (à remplacer par celui votre premier commit) : [un commit](https://github.com/ppierre/vue3-pour-SAE-301/commit/df2ca6114d46dc5e496294057f3ef87fb0c97c27)
+- Faire un lien vers un fichier du projet (avec numéro de ligne ): [lien demandé](/src/supabase.ts#L12)
+  - Faite vous-même un lien vers `/src/App.vue` ligne 21 : [lien fait vous-même]()
