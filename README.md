@@ -9,7 +9,7 @@
 
 Remplir ci-dessus les "champs" demandés et :
 
-- [ ] Avez-vous compris que vous devez remplir ce document ? (cocher pour répondre, utiliser `\[x\]`)
+- [ ] Avez-vous compris que vous devez remplir ce document ? (cocher pour répondre, utiliser `[x]`)
 
 Aussi, sachez :
 
