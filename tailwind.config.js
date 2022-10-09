@@ -10,5 +10,6 @@ module.exports = {
     require("@tailwindcss/typography"),
     require("@tailwindcss/forms"),
     formKitTailwind,
+    require("@headlessui/tailwindcss"),
   ],
 };
