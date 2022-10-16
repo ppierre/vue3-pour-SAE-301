@@ -6,7 +6,7 @@
 - **URL projet Supabase :**
   - [ ] Avez-vous invité abdallah.makhoul@univ-fcomte.fr dans votre 'Organisation' Supabase ?
 
-# Auto évaluation
+# Auto-évaluation
 
 ## R313 | Dev Back (Abdallah Makhoul : [AC 2404](https://moodle.univ-fcomte.fr/mod/assign/view.php?id=612670) et [AC 2402](https://moodle.univ-fcomte.fr/mod/assign/view.php?id=612669))
 
@@ -33,7 +33,7 @@ Noté sur 40.
 - [ ] usage de Classes utilitaires (1pt)
   - lien vers sa définition
   - lien vers son usage
-- [ ] Composants Graphiques (0-1-2pts)
+- [ ] Composants graphiques (0-1-2pts)
   - liens
 - Technique CSS (0-1-2pts)
   - Quelles techniques (Eg. Styles graphiques (répétés) tous ajoutés par CSS et/ou
@@ -44,13 +44,13 @@ Noté sur 40.
   - Quelles techniques (Grilles Flex...)
     - ...
   - liens
-  - [ ] Mise en page Fluide
+  - [ ] Mise en page fluide
 - [ ] Mobile First (0-1-2pts)
   - [ ] Plusieurs tailles
-    - les quelles...
+    - Lesquelles...
 - [ ] Dark Mode (0-1-2pts)
   - [ ] Simple usage de 'dark:'
-  - [ ] Mise en place avec usage de custom property pour les couleurs. Ou usage de DaisyUI AVEC themes perso
+  - [ ] Mise en place avec usage de custom property pour les couleurs. Ou usage de DaisyUI AVEC thèmes perso
     - liens
 - "tailwin.config.js" (0-1-2pts)
   - [ ] usage basique couleurs/fonts
